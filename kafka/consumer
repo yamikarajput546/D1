@@ -1,0 +1,2 @@
+
+./bin/kafka-console-consumer.sh --bootstrap-server server:9092 --topic quickstart1 --from-beginning
